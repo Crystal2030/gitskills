@@ -1,2 +1,4 @@
 test dev branch
+<<<<<<< HEAD
 master_conflict
+
