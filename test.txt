@@ -1,4 +1,4 @@
 test dev branch
 master_conflict
-fast forward mode
+no fast forward mode again`
 
