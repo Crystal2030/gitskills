@@ -1,4 +1,4 @@
 test dev branch
 master_conflict
-echo no-ff
+fast forward mode
 
