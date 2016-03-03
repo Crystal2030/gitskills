@@ -1,4 +1,4 @@
 test dev branch
-<<<<<<< HEAD
 master_conflict
+echo no-ff
 
